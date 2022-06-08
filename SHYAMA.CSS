@@ -274,8 +274,8 @@ h1 {
     text-align: justify;
     display: flex;
     justify-content: center;
-    font-size: 2.0rem;
-    color:#f4f764
+    font-size: 1.0rem;
+    color:#0000001a;
     /* box-shadow: none;
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem rgb(228, 225, 225); */
